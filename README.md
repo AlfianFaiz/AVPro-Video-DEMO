@@ -7,7 +7,9 @@
 + 预制体
 
 > AVPro-Video-DEMO/Assets/Prefabs/MediaPlayer.prefab
+> 
 > AVPro-Video-DEMO/Assets/Prefabs/VideoPanel.prefab
+> 
 > AVPro-Video-DEMO/Assets/Prefabs/VideoController.prefab
 
 + 控制脚本
@@ -17,5 +19,7 @@
 + 界面图标
 
 > AVPro-Video-DEMO/Assets/UI/icon_play.png
+> 
 > AVPro-Video-DEMO/Assets/UI/icon_pause.png
+> 
 > AVPro-Video-DEMO/Assets/UI/icon_stop.png
